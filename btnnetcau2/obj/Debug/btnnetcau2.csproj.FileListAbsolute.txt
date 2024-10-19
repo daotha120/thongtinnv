@@ -1,0 +1,14 @@
+C:\Users\My laptop\source\repos\btnnetcau2\btnnetcau2\obj\Debug\btnnetcau2.csproj.AssemblyReference.cache
+C:\Users\My laptop\source\repos\btnnetcau2\btnnetcau2\obj\Debug\btnnetcau2.Form1.resources
+C:\Users\My laptop\source\repos\btnnetcau2\btnnetcau2\obj\Debug\btnnetcau2.Form2.resources
+C:\Users\My laptop\source\repos\btnnetcau2\btnnetcau2\obj\Debug\btnnetcau2.Properties.Resources.resources
+C:\Users\My laptop\source\repos\btnnetcau2\btnnetcau2\obj\Debug\btnnetcau2.csproj.GenerateResource.cache
+C:\Users\My laptop\source\repos\btnnetcau2\btnnetcau2\obj\Debug\btnnetcau2.csproj.CoreCompileInputs.cache
+C:\Users\My laptop\source\repos\btnnetcau2\btnnetcau2\bin\Debug\btnnetcau2.exe.config
+C:\Users\My laptop\source\repos\btnnetcau2\btnnetcau2\bin\Debug\btnnetcau2.exe
+C:\Users\My laptop\source\repos\btnnetcau2\btnnetcau2\bin\Debug\btnnetcau2.pdb
+C:\Users\My laptop\source\repos\btnnetcau2\btnnetcau2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\My laptop\source\repos\btnnetcau2\btnnetcau2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\My laptop\source\repos\btnnetcau2\btnnetcau2\obj\Debug\btnnetcau2.csproj.Up2Date
+C:\Users\My laptop\source\repos\btnnetcau2\btnnetcau2\obj\Debug\btnnetcau2.exe
+C:\Users\My laptop\source\repos\btnnetcau2\btnnetcau2\obj\Debug\btnnetcau2.pdb

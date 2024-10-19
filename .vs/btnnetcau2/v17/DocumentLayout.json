@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\My laptop\\source\\repos\\btnnetcau2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE98D98-0B6C-4754-8212-6503BFCF626F}|btnnetcau2\\btnnetcau2.csproj|c:\\users\\my laptop\\source\\repos\\btnnetcau2\\btnnetcau2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE98D98-0B6C-4754-8212-6503BFCF626F}|btnnetcau2\\btnnetcau2.csproj|solutionrelative:btnnetcau2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE98D98-0B6C-4754-8212-6503BFCF626F}|btnnetcau2\\btnnetcau2.csproj|C:\\Users\\My laptop\\source\\repos\\btnnetcau2\\btnnetcau2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AE98D98-0B6C-4754-8212-6503BFCF626F}|btnnetcau2\\btnnetcau2.csproj|solutionrelative:btnnetcau2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE98D98-0B6C-4754-8212-6503BFCF626F}|btnnetcau2\\btnnetcau2.csproj|C:\\Users\\My laptop\\source\\repos\\btnnetcau2\\btnnetcau2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE98D98-0B6C-4754-8212-6503BFCF626F}|btnnetcau2\\btnnetcau2.csproj|solutionrelative:btnnetcau2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE98D98-0B6C-4754-8212-6503BFCF626F}|btnnetcau2\\btnnetcau2.csproj|C:\\Users\\My laptop\\source\\repos\\btnnetcau2\\btnnetcau2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AE98D98-0B6C-4754-8212-6503BFCF626F}|btnnetcau2\\btnnetcau2.csproj|solutionrelative:btnnetcau2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE98D98-0B6C-4754-8212-6503BFCF626F}|btnnetcau2\\btnnetcau2.csproj|C:\\Users\\My laptop\\source\\repos\\btnnetcau2\\btnnetcau2\\thaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE98D98-0B6C-4754-8212-6503BFCF626F}|btnnetcau2\\btnnetcau2.csproj|solutionrelative:btnnetcau2\\thaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|btnnetcau2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\My laptop\\source\\repos\\btnnetcau2\\btnnetcau2\\Form1.cs",
+              "RelativeDocumentMoniker": "btnnetcau2\\Form1.cs",
+              "ToolTip": "C:\\Users\\My laptop\\source\\repos\\btnnetcau2\\btnnetcau2\\Form1.cs",
+              "RelativeToolTip": "btnnetcau2\\Form1.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAA1wDcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:42:03.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "btnnetcau2",
+              "DocumentMoniker": "C:\\Users\\My laptop\\source\\repos\\btnnetcau2\\btnnetcau2\\btnnetcau2.csproj",
+              "RelativeDocumentMoniker": "btnnetcau2\\btnnetcau2.csproj",
+              "ToolTip": "C:\\Users\\My laptop\\source\\repos\\btnnetcau2\\btnnetcau2\\btnnetcau2.csproj",
+              "RelativeToolTip": "btnnetcau2\\btnnetcau2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-16T19:42:51.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "thaodao.cs",
+              "DocumentMoniker": "C:\\Users\\My laptop\\source\\repos\\btnnetcau2\\btnnetcau2\\thaodao.cs",
+              "RelativeDocumentMoniker": "btnnetcau2\\thaodao.cs",
+              "ToolTip": "C:\\Users\\My laptop\\source\\repos\\btnnetcau2\\btnnetcau2\\thaodao.cs",
+              "RelativeToolTip": "btnnetcau2\\thaodao.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA/wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:36:02.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\My laptop\\source\\repos\\btnnetcau2\\btnnetcau2\\Form2.cs",
+              "RelativeDocumentMoniker": "btnnetcau2\\Form2.cs",
+              "ToolTip": "C:\\Users\\My laptop\\source\\repos\\btnnetcau2\\btnnetcau2\\Form2.cs",
+              "RelativeToolTip": "btnnetcau2\\Form2.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAIwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:58:11.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\My laptop\\source\\repos\\btnnetcau2\\btnnetcau2\\Form2.cs",
+              "RelativeDocumentMoniker": "btnnetcau2\\Form2.cs",
+              "ToolTip": "C:\\Users\\My laptop\\source\\repos\\btnnetcau2\\btnnetcau2\\Form2.cs [Design]",
+              "RelativeToolTip": "btnnetcau2\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:32:42.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\My laptop\\source\\repos\\btnnetcau2\\btnnetcau2\\Form1.cs",
+              "RelativeDocumentMoniker": "btnnetcau2\\Form1.cs",
+              "ToolTip": "C:\\Users\\My laptop\\source\\repos\\btnnetcau2\\btnnetcau2\\Form1.cs [Design]",
+              "RelativeToolTip": "btnnetcau2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:41:58.12Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

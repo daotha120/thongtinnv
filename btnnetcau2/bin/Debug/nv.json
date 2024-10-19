@@ -1,0 +1,36 @@
+[
+  {
+    "ID": "03",
+    "hoten": "thị thảo",
+    "namsinh": "2003-03-29T00:00:00",
+    "gioitinh": "Nữ",
+    "bophan": "nhân sự ",
+    "chucvu": "hr ",
+    "hopdong": "thử việc ",
+    "diachi": "huế",
+    "ngayra": "2024-10-09T00:00:00",
+    "ngayvao": "2024-11-03T00:00:00",
+    "dantoc": "Mường",
+    "cccd": "154105",
+    "sdt": "2156154875",
+    "email": "thi@gmail.com",
+    "Avatar": "C:\\Users\\My laptop\\OneDrive\\Pictures\\Screenshots\\Ảnh chụp màn hình 2024-10-17 031456.png"
+  },
+  {
+    "ID": "002",
+    "hoten": "thao",
+    "namsinh": "2003-03-29T00:00:00",
+    "gioitinh": "Nữ",
+    "bophan": "kỹ thuật ",
+    "chucvu": "IT",
+    "hopdong": "thử việc ",
+    "diachi": "Hà Nội",
+    "ngayra": "2024-10-17T00:00:00",
+    "ngayvao": "2024-10-17T00:00:00",
+    "dantoc": "Kinh",
+    "cccd": "03131364",
+    "sdt": "26151844",
+    "email": "16131649",
+    "Avatar": "C:\\Users\\My laptop\\source\\repos\\btnnetcau2\\Ảnh chụp màn hình 2024-10-17 031451.png"
+  }
+]
